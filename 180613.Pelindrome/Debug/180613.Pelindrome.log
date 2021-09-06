@@ -1,0 +1,8 @@
+﻿  180613.Pelindrome.cpp
+e:\source\project1\180613.pelindrome\180613.pelindrome.cpp(50): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 'freopen' 선언을 참조하십시오.
+e:\source\project1\180613.pelindrome\180613.pelindrome.cpp(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  180613.Pelindrome.vcxproj -> E:\source\project1\Debug\180613.Pelindrome.exe

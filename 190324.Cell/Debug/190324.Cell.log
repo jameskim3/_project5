@@ -1,0 +1,6 @@
+﻿  190324.Cell.cpp
+e:\source\project1\190324.cell\190324.cell.cpp(91): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sol_190324.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  190324.Cell.vcxproj -> E:\source\project1\Debug\190324.Cell.exe

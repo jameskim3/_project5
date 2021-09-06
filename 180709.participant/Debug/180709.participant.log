@@ -1,0 +1,11 @@
+﻿  180709.participant.cpp
+e:\source\project1\180709.participant\180709.participant.cpp(67): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\source\project1\180709.participant\180709.participant.cpp(45): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+e:\source\project1\180709.participant\180709.participant.cpp(45): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+e:\source\project1\180709.participant\180709.participant.cpp(45): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  sol2.cpp
+e:\source\project1\180709.participant\sol2.cpp(170): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+e:\source\project1\180709.participant\sol2.cpp(170): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  180709.participant.vcxproj -> E:\source\project1\Debug\180709.participant.exe

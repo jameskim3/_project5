@@ -1,0 +1,7 @@
+﻿  180715.StickerMemo.cpp
+e:\source\project1\180715.stickermemo\180715.stickermemo.cpp(28): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  sol1.cpp
+e:\source\project1\180715.stickermemo\sol1.cpp(32): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  180715.StickerMemo.vcxproj -> E:\source\project1\Debug\180715.StickerMemo.exe

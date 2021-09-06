@@ -1,0 +1,10 @@
+﻿  180714.disk2.cpp
+e:\source\project1\180714.disk2\180714.disk2.cpp(168): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+  e:\source\project1\180714.disk2\180714.disk2.cpp(168): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  e:\source\project1\180714.disk2\180714.disk2.cpp(168): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+e:\source\project1\180714.disk2\180714.disk2.cpp(138): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 'freopen' 선언을 참조하십시오.
+  sol_190208.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  180714.disk2.vcxproj -> E:\source\project1\Debug\180714.disk2.exe

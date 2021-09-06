@@ -1,0 +1,8 @@
+﻿  180827.KeyValueDisk.cpp
+e:\source\project1\180827.keyvaluedisk\180827.keyvaluedisk.cpp(123): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\source\project1\180827.keyvaluedisk\180827.keyvaluedisk.cpp(116): warning C4101: 'value' :참조되지 않은 지역 변수입니다.
+e:\source\project1\180827.keyvaluedisk\180827.keyvaluedisk.cpp(116): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+  sol1.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  180827.KeyValueDisk.vcxproj -> E:\source\project1\Debug\180827.KeyValueDisk.exe

@@ -1,0 +1,7 @@
+﻿  161010.bitmap1.cpp
+e:\source\project1\161010.bitmap1\161010.bitmap1.cpp(115): warning C4244: '-=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\source\project1\161010.bitmap1\161010.bitmap1.cpp(127): warning C4244: '-=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sol_181230.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  161010.bitmap1.vcxproj -> E:\source\project1\Debug\161010.bitmap1.exe

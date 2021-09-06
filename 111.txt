@@ -1,0 +1,15 @@
+git status
+git add -A
+git commit -m "~~~"
+git push -u origin master
+
+
+rg_jzrb$
+
+git clone https://github.com/jameskim3/project1
+
+Machine Learning Á¤ÀÇ : he answer to this question lies in testing for the assumptions underlying the statistical bases for multivariate analysis.
+outlier
+normal distribution
+missing data
+

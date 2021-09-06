@@ -1,0 +1,6 @@
+﻿  180425.sorting.cpp
+e:\source\project1\180425.sorting\180425.sorting.cpp(70): warning C4244: '초기화 중': 'ULL'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\source\project1\180425.sorting\180425.sorting.cpp(92): warning C4244: '인수': 'ULL'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  180425.sorting.vcxproj -> E:\source\project1\Debug\180425.sorting.exe

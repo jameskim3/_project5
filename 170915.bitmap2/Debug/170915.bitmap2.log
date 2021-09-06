@@ -1,0 +1,8 @@
+﻿  170915.bitmap2.cpp
+e:\source\project1\170915.bitmap2\170915.bitmap2.cpp(101): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+  e:\source\project1\170915.bitmap2\170915.bitmap2.cpp(101): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  e:\source\project1\170915.bitmap2\170915.bitmap2.cpp(101): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  sol_190112.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  170915.bitmap2.vcxproj -> E:\source\project1\Debug\170915.bitmap2.exe
